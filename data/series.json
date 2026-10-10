@@ -1,0 +1,17 @@
+[
+  {
+    "id": "i-doni-spirituali",
+    "assembly_id": "brescia",
+    "title": "I Doni Spirituali",
+    "speaker": "Antoine Fracchiolla",
+    "description": null,
+    "recording_ids": [
+      "31fe3f83-d3fc-470b-9cab-34143edd25b4",
+      "121f60f9-a9ed-4baf-9c6e-01705acfc873",
+      "cb541371-8d5e-47d9-88a3-62a4985742ef",
+      "88873c84-7a0d-4035-9613-c6f54cca663e",
+      "97ba6034-df9e-4b72-905d-9d9f724ea778"
+    ],
+    "created_at": "2026-09-28T14:54:42.567Z"
+  }
+]
