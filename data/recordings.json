@@ -1,0 +1,812 @@
+[
+  {
+    "id": "14515c79-4e46-42f8-a4bf-b32e955b0494",
+    "assembly_id": "brescia",
+    "title": "Il Compromesso - Ep.1",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2026-01-04",
+    "description": null,
+    "tags": [
+      "il compromesso"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/1790178592650_il_compromesso.m4a",
+    "audio_duration": 1800,
+    "audio_filesize": 38842395,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-23T15:49:56.347956+00:00",
+    "updated_at": "2026-09-23T15:59:42.999+00:00"
+  },
+  {
+    "id": "e7172f48-9587-4fe3-8f46-acc8f6cfec06",
+    "assembly_id": "brescia",
+    "title": "Dio vuole che tutti siano salvati",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-10-12",
+    "description": null,
+    "tags": [
+      "studio",
+      "dio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20251012_dio_vuole_che_tutti_siano_salvati.m4a",
+    "audio_duration": 1388,
+    "audio_filesize": 11483023,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:48:02.201258+00:00",
+    "updated_at": "2026-09-28T13:48:02.201258+00:00"
+  },
+  {
+    "id": "97ba6034-df9e-4b72-905d-9d9f724ea778",
+    "assembly_id": "brescia",
+    "title": "La volontà Maestra di Dio",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-10-10",
+    "description": null,
+    "tags": [
+      "studio",
+      "dio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20251010_la_volont__maestra_di_dio.m4a",
+    "audio_duration": 2033,
+    "audio_filesize": 16858934,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:47:33.02122+00:00",
+    "updated_at": "2026-09-28T13:47:33.02122+00:00"
+  },
+  {
+    "id": "4aa8af9e-d50a-4c85-abe1-8230d9e63e5a",
+    "assembly_id": "brescia",
+    "title": "Stare Saldi",
+    "speaker": "Andrea Maranta",
+    "passage": null,
+    "recording_date": "2025-10-05",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20251005_stare_saldi.m4a",
+    "audio_duration": 1880,
+    "audio_filesize": 15506263,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T15:00:44.960529+00:00",
+    "updated_at": "2026-09-28T15:00:44.960529+00:00"
+  },
+  {
+    "id": "a4ac8d78-e363-49bf-a76a-6a24fe85a062",
+    "assembly_id": "brescia",
+    "title": "Il pane ed il vino",
+    "speaker": "Andrea Maranta",
+    "passage": null,
+    "recording_date": "2025-09-22",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250922_il_pane_ed_il_vino.m4a",
+    "audio_duration": 2112,
+    "audio_filesize": 17453159,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:50:32.529678+00:00",
+    "updated_at": "2026-09-28T14:50:32.529678+00:00"
+  },
+  {
+    "id": "a0cc61c1-40c0-4ac7-a6b2-3747099dfab8",
+    "assembly_id": "brescia",
+    "title": "Volontà relativa e assoluta di Dio",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-09-22",
+    "description": null,
+    "tags": [
+      "studio",
+      "dio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250922_volont__relativa_e_assoluta_di_dio.m4a",
+    "audio_duration": 3160,
+    "audio_filesize": 26123974,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:52:25.798507+00:00",
+    "updated_at": "2026-09-28T14:52:25.798507+00:00"
+  },
+  {
+    "id": "6c3ccf1c-d5ea-495e-892d-530d09390193",
+    "assembly_id": "brescia",
+    "title": "La Fornicazione",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-09-12",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250912_la_fornicazione.m4a",
+    "audio_duration": 2944,
+    "audio_filesize": 24388011,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:47:55.835268+00:00",
+    "updated_at": "2026-09-28T13:47:55.835268+00:00"
+  },
+  {
+    "id": "6586ffd4-7d36-4942-b0bd-2fa5a6d14fb6",
+    "assembly_id": "brescia",
+    "title": "Romani #6",
+    "speaker": "Roberto Balbiani",
+    "passage": "Romani #6",
+    "recording_date": "2025-08-24",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250824_romani__6.m4a",
+    "audio_duration": 1877,
+    "audio_filesize": 15516151,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:55:49.285978+00:00",
+    "updated_at": "2026-09-28T14:55:49.285978+00:00"
+  },
+  {
+    "id": "dc23c070-4c89-4d02-b8b1-1b09e6670ca7",
+    "assembly_id": "brescia",
+    "title": "Le cattive compagnie",
+    "speaker": "Andrea Maranta",
+    "passage": null,
+    "recording_date": "2025-08-17",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250817_le_cattive_compagnie.m4a",
+    "audio_duration": 1714,
+    "audio_filesize": 14169020,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:44:14.119243+00:00",
+    "updated_at": "2026-09-28T14:44:14.119243+00:00"
+  },
+  {
+    "id": "4c6861bc-801a-402e-8650-29680149bd75",
+    "assembly_id": "brescia",
+    "title": "Il combattimento Spirituale",
+    "speaker": "Stefano Polchi",
+    "passage": null,
+    "recording_date": "2025-07-13",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250713_il_combattimento_spirituale.m4a",
+    "audio_duration": 1516,
+    "audio_filesize": 12544564,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:48:18.875208+00:00",
+    "updated_at": "2026-09-28T13:48:18.875208+00:00"
+  },
+  {
+    "id": "88873c84-7a0d-4035-9613-c6f54cca663e",
+    "assembly_id": "brescia",
+    "title": "Volontà di Dio",
+    "speaker": "Andrea Maranta",
+    "passage": null,
+    "recording_date": "2025-07-11",
+    "description": null,
+    "tags": [
+      "volontà di dio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250711_volont__di_dio__2.m4a",
+    "audio_duration": 2024,
+    "audio_filesize": 16719776,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:47:23.857225+00:00",
+    "updated_at": "2026-09-28T14:51:32.2+00:00"
+  },
+  {
+    "id": "d4a800e6-a4b9-4529-a13b-a105ec1c7d6b",
+    "assembly_id": "brescia",
+    "title": "Volontà di Dio #2",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-07-11",
+    "description": null,
+    "tags": [
+      "studio",
+      "dio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250711_volont__di_dio__2.m4a",
+    "audio_duration": 2024,
+    "audio_filesize": 16719776,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T15:03:40.214922+00:00",
+    "updated_at": "2026-09-28T15:03:40.214922+00:00"
+  },
+  {
+    "id": "82abe32b-4140-44f3-ad81-f342eaea7ea3",
+    "assembly_id": "brescia",
+    "title": "Gesù cristo compiaciuto",
+    "speaker": "Stefano Polchi",
+    "passage": null,
+    "recording_date": "2025-06-29",
+    "description": null,
+    "tags": [
+      "studio",
+      "gesù"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250629_ges__cristo_compiaciuto.m4a",
+    "audio_duration": 1442,
+    "audio_filesize": 11938296,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:58:49.836098+00:00",
+    "updated_at": "2026-09-28T14:58:49.836098+00:00"
+  },
+  {
+    "id": "cb541371-8d5e-47d9-88a3-62a4985742ef",
+    "assembly_id": "brescia",
+    "title": "Volontà di Dio #1",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-06-22",
+    "description": null,
+    "tags": [
+      "studio",
+      "dio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250622_volont__di_dio__1.m4a",
+    "audio_duration": 1269,
+    "audio_filesize": 10485630,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:49:49.051103+00:00",
+    "updated_at": "2026-09-28T14:49:49.051103+00:00"
+  },
+  {
+    "id": "a704475a-8a8e-41f3-8f4d-c46c3fb3e289",
+    "assembly_id": "brescia",
+    "title": "Malachia",
+    "speaker": "Stefano Gentile",
+    "passage": "Malachia",
+    "recording_date": "2025-06-15",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250615_malachia.m4a",
+    "audio_duration": 1527,
+    "audio_filesize": 12606611,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:48:27.778723+00:00",
+    "updated_at": "2026-09-28T13:48:27.778723+00:00"
+  },
+  {
+    "id": "c7af2ae0-4186-4d90-b262-dc44ab32b7b8",
+    "assembly_id": "brescia",
+    "title": "Tesori Celesti",
+    "speaker": "Stefano Polchi",
+    "passage": null,
+    "recording_date": "2025-06-01",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250601_tesori_celesti.m4a",
+    "audio_duration": 1122,
+    "audio_filesize": 9311718,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:45:43.753226+00:00",
+    "updated_at": "2026-09-28T13:45:43.753226+00:00"
+  },
+  {
+    "id": "bd431aa7-1d7b-4e88-a237-204d8c6a51ae",
+    "assembly_id": "brescia",
+    "title": "L'evangelizzazione",
+    "speaker": "Andrea Vitti",
+    "passage": null,
+    "recording_date": "2025-05-18",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250518_l_evangelizzazione.m4a",
+    "audio_duration": 2457,
+    "audio_filesize": 20268813,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:47:43.107835+00:00",
+    "updated_at": "2026-09-28T14:47:43.107835+00:00"
+  },
+  {
+    "id": "39b85f5f-31f3-4477-9a63-d0957db9b6f8",
+    "assembly_id": "brescia",
+    "title": "Romani #3",
+    "speaker": "Roberto Balbiani",
+    "passage": "Romani #3",
+    "recording_date": "2025-05-04",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250504_romani__3.m4a",
+    "audio_duration": 2464,
+    "audio_filesize": 20357619,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T15:00:21.341403+00:00",
+    "updated_at": "2026-09-28T15:00:21.341403+00:00"
+  },
+  {
+    "id": "c57333d7-aad3-446c-b23e-22993e2d506c",
+    "assembly_id": "brescia",
+    "title": "La Metamorfosi",
+    "speaker": "Andrea Maranta",
+    "passage": null,
+    "recording_date": "2025-04-27",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250427_la_metamorfosi.m4a",
+    "audio_duration": 1720,
+    "audio_filesize": 14242219,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:57:40.603669+00:00",
+    "updated_at": "2026-09-28T14:57:40.603669+00:00"
+  },
+  {
+    "id": "f8cdd938-e23a-4d5f-b630-4fc2505720df",
+    "assembly_id": "brescia",
+    "title": "Digiuno #2",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-04-25",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250425_digiuno__2.m4a",
+    "audio_duration": 2378,
+    "audio_filesize": 19632100,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:56:41.802564+00:00",
+    "updated_at": "2026-09-28T14:56:41.802564+00:00"
+  },
+  {
+    "id": "7a282f2f-2003-4583-9643-2ed8030bdc6e",
+    "assembly_id": "brescia",
+    "title": "La Trasfigurazione",
+    "speaker": "Fratello",
+    "passage": null,
+    "recording_date": "2025-04-13",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250413_la_trasfigurazione.m4a",
+    "audio_duration": 2318,
+    "audio_filesize": 19141509,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:09:54.939701+00:00",
+    "updated_at": "2026-09-28T14:09:54.939701+00:00"
+  },
+  {
+    "id": "121f60f9-a9ed-4baf-9c6e-01705acfc873",
+    "assembly_id": "brescia",
+    "title": "Il dono delle lingue",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-04-11",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250411_il_dono_delle_lingue.m4a",
+    "audio_duration": 3461,
+    "audio_filesize": 28645192,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:48:07.198318+00:00",
+    "updated_at": "2026-09-28T13:48:07.198318+00:00"
+  },
+  {
+    "id": "ba6e6769-65ed-423a-ade1-6db35060e500",
+    "assembly_id": "brescia",
+    "title": "Salmo 144",
+    "speaker": "Stefano Polchi",
+    "passage": "Salmo 144",
+    "recording_date": "2025-04-06",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250406_salmo_144.m4a",
+    "audio_duration": 1485,
+    "audio_filesize": 12326644,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:44:00.549293+00:00",
+    "updated_at": "2026-09-28T13:44:00.549293+00:00"
+  },
+  {
+    "id": "6251077d-401a-4269-b693-5440df88e6e5",
+    "assembly_id": "brescia",
+    "title": "Essere Discepoli",
+    "speaker": "Andrea Maranta",
+    "passage": null,
+    "recording_date": "2025-03-30",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250330_essere_discepoli.m4a",
+    "audio_duration": 2386,
+    "audio_filesize": 19711269,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:59:50.618198+00:00",
+    "updated_at": "2026-09-28T14:59:50.618198+00:00"
+  },
+  {
+    "id": "6112d06c-b14c-46de-a14e-66343e887a4e",
+    "assembly_id": "brescia",
+    "title": "Romani #2",
+    "speaker": "Roberto Balbiani",
+    "passage": "Romani #2",
+    "recording_date": "2025-03-23",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250323_romani__2.m4a",
+    "audio_duration": 1985,
+    "audio_filesize": 16422033,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:55:25.409345+00:00",
+    "updated_at": "2026-09-28T14:55:25.409345+00:00"
+  },
+  {
+    "id": "dcbd5a2c-0827-418b-a3ae-9013e4247634",
+    "assembly_id": "brescia",
+    "title": "I doni spirituali #5",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-03-21",
+    "description": null,
+    "tags": [
+      "studio",
+      "doni spirituali"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250321_i_doni_spirituali__5.m4a",
+    "audio_duration": 3000,
+    "audio_filesize": 24875891,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:49:32.796058+00:00",
+    "updated_at": "2026-09-28T14:49:32.796058+00:00"
+  },
+  {
+    "id": "e4596c7f-ceb9-4b66-a70a-fb40ed79c04c",
+    "assembly_id": "brescia",
+    "title": "Non Temere",
+    "speaker": "Stefano Polchi",
+    "passage": null,
+    "recording_date": "2025-03-09",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250309_non_temere.m4a",
+    "audio_duration": 1718,
+    "audio_filesize": 14273358,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:44:58.371069+00:00",
+    "updated_at": "2026-09-28T13:44:58.371069+00:00"
+  },
+  {
+    "id": "58560707-1ea3-41b3-987b-94740dc2a53f",
+    "assembly_id": "brescia",
+    "title": "I doni spirituali #4",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-02-28",
+    "description": null,
+    "tags": [
+      "studio",
+      "doni spirituali"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250228_i_doni_spirituali__4.m4a",
+    "audio_duration": 2292,
+    "audio_filesize": 18952400,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:58:10.07739+00:00",
+    "updated_at": "2026-09-28T14:58:10.07739+00:00"
+  },
+  {
+    "id": "e984f506-7a0a-47a5-bdb2-d00000a0c9a1",
+    "assembly_id": "brescia",
+    "title": "Romani #1",
+    "speaker": "Roberto Balbiani",
+    "passage": "Romani #1",
+    "recording_date": "2025-02-23",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250223_romani__1.m4a",
+    "audio_duration": 2126,
+    "audio_filesize": 17580102,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:54:10.142193+00:00",
+    "updated_at": "2026-09-28T14:54:10.142193+00:00"
+  },
+  {
+    "id": "6b34bfd1-27ef-423e-b858-baa5691a7ae2",
+    "assembly_id": "brescia",
+    "title": "La Venuta di Cristo",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-02-16",
+    "description": null,
+    "tags": [
+      "studio",
+      "gesù"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250216_la_venuta_di_cristo.m4a",
+    "audio_duration": 1978,
+    "audio_filesize": 16349187,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:23:12.03953+00:00",
+    "updated_at": "2026-09-28T14:23:12.03953+00:00"
+  },
+  {
+    "id": "31fe3f83-d3fc-470b-9cab-34143edd25b4",
+    "assembly_id": "brescia",
+    "title": "I doni spirituali #3",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2025-02-16",
+    "description": null,
+    "tags": [
+      "studio",
+      "doni spirituali"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250216_i_doni_spirituali__3.m4a",
+    "audio_duration": 2371,
+    "audio_filesize": 19590171,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:14:34.215119+00:00",
+    "updated_at": "2026-09-28T14:14:34.215119+00:00"
+  },
+  {
+    "id": "97ae53af-e525-48ab-a559-9b14b6db62fb",
+    "assembly_id": "brescia",
+    "title": "Il cammino obbligato",
+    "speaker": "Stefano Polchi",
+    "passage": null,
+    "recording_date": "2025-02-02",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20250202_il_cammino_obbligato.m4a",
+    "audio_duration": 1395,
+    "audio_filesize": 11561479,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:48:52.329855+00:00",
+    "updated_at": "2026-09-28T14:48:52.329855+00:00"
+  },
+  {
+    "id": "68b5aca6-90fa-4ef3-86d1-9151d0195555",
+    "assembly_id": "brescia",
+    "title": "Il vero messaggio della Croce",
+    "speaker": "Roberto Balbiani",
+    "passage": null,
+    "recording_date": "2024-04-05",
+    "description": null,
+    "tags": [
+      "studio",
+      "croce"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20240405_il_vero_messaggio_della_croce.m4a",
+    "audio_duration": 2144,
+    "audio_filesize": 17689385,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:43:18.677789+00:00",
+    "updated_at": "2026-09-28T13:43:18.677789+00:00"
+  },
+  {
+    "id": "83cf1342-bf59-4eb6-80c4-10480ec55c14",
+    "assembly_id": "brescia",
+    "title": "La superbia della carne",
+    "speaker": "Andrea Maranta",
+    "passage": null,
+    "recording_date": "2024-03-24",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20240324_la_superbia_della_carne.m4a",
+    "audio_duration": 1774,
+    "audio_filesize": 14649302,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:56:11.647444+00:00",
+    "updated_at": "2026-09-28T14:56:11.647444+00:00"
+  },
+  {
+    "id": "e37ae6c7-95be-426d-a417-98af1ae8660f",
+    "assembly_id": "brescia",
+    "title": "Nicodemo",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2024-03-01",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20240301_nicodemo.m4a",
+    "audio_duration": 2406,
+    "audio_filesize": 19886663,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:47:35.544938+00:00",
+    "updated_at": "2026-09-28T14:50:49.851+00:00"
+  },
+  {
+    "id": "ea9cc831-329e-45cb-ab28-5b8c202a98a1",
+    "assembly_id": "brescia",
+    "title": "Testimonianza di Kurt Jost e gli ultimi giorni di Paolo",
+    "speaker": "Kurt Jost",
+    "passage": null,
+    "recording_date": "2024-02-25",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20240225_testimonianza_di_kurt_jost_e_gli_ultimi_giorn.m4a",
+    "audio_duration": 3037,
+    "audio_filesize": 25085186,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:57:17.542374+00:00",
+    "updated_at": "2026-09-28T14:57:17.542374+00:00"
+  },
+  {
+    "id": "62115069-f710-4b40-8c13-89b76f7e3063",
+    "assembly_id": "brescia",
+    "title": "Geremia tra uomo e profeta",
+    "speaker": "Roberto Balbiani",
+    "passage": "Geremia",
+    "recording_date": "2024-02-11",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20240211_geremia_tra_uomo_e_profeta.m4a",
+    "audio_duration": 2562,
+    "audio_filesize": 21151149,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T13:47:41.671548+00:00",
+    "updated_at": "2026-09-28T13:47:41.671548+00:00"
+  },
+  {
+    "id": "0ad67bc8-bffd-4523-a9e0-6ea7bdffafbb",
+    "assembly_id": "brescia",
+    "title": "1 Giovanni #2",
+    "speaker": "Andrea Maranta",
+    "passage": "1 Giovanni #2",
+    "recording_date": "2024-01-28",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20240128_1_giovanni__2.m4a",
+    "audio_duration": 1636,
+    "audio_filesize": 13512370,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:58:30.551855+00:00",
+    "updated_at": "2026-09-28T14:58:30.551855+00:00"
+  },
+  {
+    "id": "252b4518-c9fa-4593-b202-6b436897ab4b",
+    "assembly_id": "brescia",
+    "title": "Giudici #12",
+    "speaker": "Antoine Fracchiolla",
+    "passage": "Giudici",
+    "recording_date": "2024-01-18",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20240118_giudici__12.m4a",
+    "audio_duration": 1863,
+    "audio_filesize": 15423821,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:48:28.777293+00:00",
+    "updated_at": "2026-09-28T14:50:42.41+00:00"
+  },
+  {
+    "id": "c14db9c1-3ce3-4e8e-825b-7deacfac658f",
+    "assembly_id": "brescia",
+    "title": "Noi siamo la luce del mondo",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2023-12-03",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20231203_noi_siamo_la_luce_del_mondo.m4a",
+    "audio_duration": 2380,
+    "audio_filesize": 19715643,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T14:59:20.446329+00:00",
+    "updated_at": "2026-09-28T14:59:20.446329+00:00"
+  },
+  {
+    "id": "a80423d8-ba2a-43bb-a04a-192ce360390c",
+    "assembly_id": "brescia",
+    "title": "1 Giovanni",
+    "speaker": "Andrea Maranta",
+    "passage": "1 Giovanni",
+    "recording_date": "2023-11-05",
+    "description": null,
+    "tags": [
+      "studio"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20231105_1_giovanni.m4a",
+    "audio_duration": 1175,
+    "audio_filesize": 9700210,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T15:01:00.418414+00:00",
+    "updated_at": "2026-09-28T15:01:00.418414+00:00"
+  },
+  {
+    "id": "6913a1ed-495a-4d40-a2ac-10157fd6e821",
+    "assembly_id": "brescia",
+    "title": "Gesù e il rapporto con il tempio",
+    "speaker": "Antoine Fracchiolla",
+    "passage": null,
+    "recording_date": "2023-05-07",
+    "description": null,
+    "tags": [
+      "studio",
+      "gesù"
+    ],
+    "audio_url": "https://raw.githubusercontent.com/Gabbalb/Archivio-Studi-Backup/main/audio/brescia/20230507_ges__e_il_rapporto_con_il_tempio.m4a",
+    "audio_duration": 1729,
+    "audio_filesize": 14327773,
+    "cover_image_url": null,
+    "github_release_url": null,
+    "created_at": "2026-09-28T15:01:22.626306+00:00",
+    "updated_at": "2026-09-28T15:01:22.626306+00:00"
+  }
+]
